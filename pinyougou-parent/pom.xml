@@ -12,7 +12,7 @@
 		<spring.version>4.2.4.RELEASE</spring.version>
 		<pagehelper.version>4.0.0</pagehelper.version>
 		<servlet-api.version>2.5</servlet-api.version>
-		<dubbo.version>2.8.4</dubbo.version>
+		<dubbo.version>2.6.1</dubbo.version>
 		<zookeeper.version>3.4.7</zookeeper.version>
 		<zkclient.version>0.1</zkclient.version>		
 		<mybatis.version>3.2.8</mybatis.version>
@@ -275,34 +275,10 @@
 	</build>
   
 	<modules>
-		<module>pinyougou-pojo</module>
-		<module>pinyougou-dao</module>
-		<module>pinyougou-common</module>
-		<module>pinyougou-sellergoods-interface</module>
-		<module>pinyougou-sellergoods-service</module>
-		<module>pinyougou-manager-web</module>
-		<module>pinyougou-shop-web</module>
-		<module>pinyougou-content-interface</module>
-		<module>pinyougou-content-service</module>
-		<module>pinyougou-portal-web</module>
-		<module>pinyougou-item-web</module>
-		<module>pinyougou-itempage-service</module>
-		<module>pinyougou-user-interface</module>
-		<module>pinyougou-user-service</module>
-		<module>pinyougou-user-web</module>
+
 		<module>pinyougou-cart-interface</module>
 		<module>pinyougou-cart-service</module>
 		<module>pinyougou-cart-web</module>
-		<module>pinyougou-order-interface</module>
-		<module>pinyougou-order-service</module>
-		<module>pinyougou-pay-interface</module>
-		<module>pinyougou-pay-service</module>
-		<module>pinyougou-seckill-interface</module>
-		<module>pinyougou-seckill-service</module>
-		<module>pinyougou-seckill-web</module>
-		<module>pinyougou-solr-util</module>
-		<module>pinyougou-search-interface</module>
-		<module>pinyougou-search-service</module>
-		<module>pinyougou-search-web</module>
+
 	</modules>
 </project>

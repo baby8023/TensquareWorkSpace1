@@ -83,11 +83,7 @@
 		<artifactId>activemq-all</artifactId>
 	</dependency>
 
-	<dependency>
-		<groupId>com.pinyougou</groupId>
-		<artifactId>pinyougou-dao</artifactId>
-		<version>0.0.5-SNAPSHOT</version>
-	</dependency>
+
 	<dependency>
 		<groupId>com.pinyougou</groupId>
 		<artifactId>pinyougou-cart-interface</artifactId>
